@@ -4,7 +4,7 @@
 	<definition>
 		<idname>smtpsendlib</idname>
 		<release>
-			<version>1.19-3</version>
+			<version>1.19.4</version>
 			<date>2008/12/15</date>
 			<changesfile>CHANGES</changesfile>
 		</release>
